@@ -1,0 +1,13 @@
+local-zone: "img.ak.impact-ad.jp." static
+local-zone: "a248.e.akamai.net." static
+local-zone: "spcdnpc.i-mobile.co.jp." static
+local-zone: "fpc.googlesyndication.com." static
+local-zone: "tpc.googlesyndication.com." static
+local-zone: "googletagservices.com." static
+local-zone: "googlesyndication.com." static
+local-zone: "asg.to." static
+local-zone: "dtiserv2.com." static
+local-zone: "ane.yahoo.co.jp." static
+local-zone: "rd.ane.yahoo.co.jp." static
+local-zone: "ard.yahoo.co.jp." static
+local-zone: "ad.noahpass.jp." static
