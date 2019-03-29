@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import sys
-dns_server = "192.168.99.1"
+dns_server = "127.0.0.1"
 if len(sys.argv) == 2:
     dns_server = sys.argv[1]
 
