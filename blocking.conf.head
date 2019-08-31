@@ -29,7 +29,18 @@ local-zone: "criteo.com." static
 local-zone: "gsspat.jp." static
 local-zone: "adm.shinobi.jp." static
 local-zone: "shinobi.jp." static
-local-zone: "m.media-amazon.com." static
+local-zone: "s-cs.send.microad.jp." static
+local-zone: "cdn.fivecdm.com." static
+local-zone: "aid.send.microad.jp." static
+local-zone: "ds.uncn.jp." static
+local-zone: "sbdsp-dps.jp.cinarra.com." static
+local-zone: "adpon-prd-asset.sslcs.cdngc.net." static
+
+local-zone: "aaacompany.net." redirect
+local-data: "aaacompany.net A 0.0.0.0"
+local-data: "aaacompany.net AAAA ::"
+
+local-zone: "static.pc-adroute.focas.jp." static
 
 #local-zone: "s.yimg.jp." static
 #local-zone: "yeas.yahoo.co.jp." static
