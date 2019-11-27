@@ -20,10 +20,15 @@ sed -i -e '/m.media-amazon.com./d' blocking.conf
 
 sed -i -e '/s.click.aliexpress/d' warui_intaa_blocking.conf
 sed -i -e '/analytics.twitter.com/d' warui_intaa_blocking.conf
-sed -i -e '/line.me/d' warui_intaa_blocking.conf
 sed -i -e '/cloudfront.net/d' warui_intaa_blocking.conf
 sed -i -e '/googleusercontent.com/d' warui_intaa_blocking.conf
 sed -i -e '/analytics.edgekey.net/d' warui_intaa_blocking.conf
+
+sed -i -e '/naver.jp/d' warui_intaa_blocking.conf
+sed -i -e '/line.me/d' warui_intaa_blocking.conf
+sed -i -e '/lineblog.me/d' warui_intaa_blocking.conf
+sed -i -e '/line-cdn.net/d' warui_intaa_blocking.conf
+sed -i -e '/line-scdn.net/d' warui_intaa_blocking.conf
 
 mkdir -p /tmp/www
 cp blocking.conf warui_intaa_blocking.conf /tmp/www/
