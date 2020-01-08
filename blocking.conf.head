@@ -11,12 +11,10 @@ local-zone: "ane.yahoo.co.jp." static
 local-zone: "rd.ane.yahoo.co.jp." static
 local-zone: "ard.yahoo.co.jp." static
 local-zone: "ad.noahpass.jp." static
-local-zone: "i-mobile.co.jp." static
 local-zone: "yads.yjtag.yahoo.co.jp." static
 local-zone: "yads.c.yimg.jp." static
 local-zone: "yj-a.p.adnxs.com." static
 local-zone: "sin1-ib.adnxs.com." static
-local-zone: "adnxs.com." static
 local-zone: "b94.yahoo.co.jp." static
 local-zone: "iwiz-searchlink.c.yimg.jp." static
 local-zone: "b5.yahoo.co.jp." static
@@ -28,7 +26,6 @@ local-zone: "cas.criteo.com." static
 local-zone: "criteo.com." static
 local-zone: "gsspat.jp." static
 local-zone: "adm.shinobi.jp." static
-local-zone: "shinobi.jp." static
 local-zone: "s-cs.send.microad.jp." static
 local-zone: "cdn.fivecdm.com." static
 local-zone: "aid.send.microad.jp." static
